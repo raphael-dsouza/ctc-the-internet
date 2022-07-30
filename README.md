@@ -6,3 +6,4 @@ I have posted my work on github so you can see my work.
 
 Some of the files I created are:
 * [Hello](hello.html)
+* [Favourites](fav.html)
