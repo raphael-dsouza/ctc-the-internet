@@ -7,3 +7,10 @@ I have posted my work on github so you can see my work.
 Some of the files I created are:
 * [Hello](hello.html)
 * [Favourites](fav.html)
+* [Cake shop](cake.html)
+* [Pretend shopping](shop.html)
+* [Posting photos](fav2.html)
+* [JavaScript dice](dice.html)
+* [Helicopter game](heli.html)
+* [Colour changing screen](slider.html)
+* [Searching Engine](search.html)
