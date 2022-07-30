@@ -9,7 +9,7 @@ Some of the files I created are:
 * [Favourites](fav.html)
 * [Cake shop](cake.html)
 * [Pretend shopping](shop.html)
-* [Posting photos](fav2.html)
+* [Posting photos](fav-2.html)
 * [JavaScript dice](dice.html)
 * [Helicopter game](heli.html)
 * [Colour changing screen](slider.html)
